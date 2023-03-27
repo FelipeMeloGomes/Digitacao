@@ -1,7 +1,7 @@
-<h1 align="center"> FM Burger </h1>
+<h1 align="center"> Digitação </h1>
 
 <p align="center">
-Uma Loja fictícia de Hamburguês. <br/>
+Um aplicativo para testar a velocidade de digitação do usuário. <br/>
 </p>
 
 
